@@ -1,0 +1,5 @@
+home_enviroment/*
+__pycache__/*
+.vscode/
+migrations/*
+*.json
