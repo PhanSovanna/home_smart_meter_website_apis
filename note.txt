@@ -2,3 +2,10 @@ Superuser:
  - Name: vuthy
  - Pass: vuthy
  
+
+ Add gitignore:
+    1. CTRL + SHIFT + P
+    2. add gitignore
+    3. type python
+
+    
