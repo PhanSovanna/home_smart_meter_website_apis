@@ -21,5 +21,5 @@ from . import urls as hsm_apis_urls
 urlpatterns = [
     path('admin/', admin.site.urls),
     url(r'^api-auth/', include('rest_framework.urls')),
-    url('^hsm_apis/',include('hsm_apis.urls')),
+    url('^hsm_apis/', include('hsm_apis.urls')),
 ]
